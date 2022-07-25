@@ -1,2 +1,1 @@
-#!/bin/bash
-This is my first repository as an alx system engineer
+This file contains files on Loops, Conditions and Parsing for ALX Software Engineering Program.
